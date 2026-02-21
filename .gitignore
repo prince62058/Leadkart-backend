@@ -1,9 +1,7 @@
 node_modules/
-.env
 .DS_Store
 tmp/
 temp/
 error.log
 combined.log
 public/
-src/config/firebase.json
