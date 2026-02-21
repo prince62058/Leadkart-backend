@@ -2560,7 +2560,7 @@ ffmpeg.setFfmpegPath(ffmpegInstaller.path);
 ffmpeg.setFfprobePath(ffprobeInstaller.path);
 
 const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY, // Replace with your actual key, preferably from environment variables
+  apiKey: process.env.OPENAI_API_KEY || "dummy", // Fallback to dummy so server doesn't crash on load
 });
 
 const cache = new NodeCache({ stdTTL: 3600 });
