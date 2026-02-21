@@ -1,0 +1,584 @@
+
+{
+  "_id": {
+    "$oid": "688c83e890cb31bd5d1d07be"
+  },
+  "businessId": {
+    "$oid": "688c247b8ff06c71ffd99fdc"
+  },
+  "title": "WhatsApp ads",
+  "imageHashId": [
+    "63f8b92f936647a754c0fcab4ec06f4f"
+  ],
+  "image": [
+    "https://leadkart.in-maa-1.linodeobjects.com/LEADKART/IMAGE/1747832800141_1747832797459-a6cb0.jpeg"
+  ],
+  "caption": "The image vividly portrays a youthful woman energetically using a megaphone, symbolizing the power of voice in promoting business endeavors. She is presented alongside a large smartphone displaying various icons of major digital advertising platforms like Google Ads and LinkedIn. The layout and colors are visually stimulating, emphasizing the use of modern, accessible technology in boost marketing and lead generation pursuits. The presence of the phone and the emphatic posture of the woman merge the realms of digital marketing and personal engagement, illustrating how technology aids in amplifying a business's reach and impact effectively.",
+  "isCallToActionEnabled": false,
+  "destinationUrl": "https://leadkart.ai",
+  "audienceId": [],
+  "interest": [
+    {
+      "id": "6003006885619",
+      "name": "Digital media (computers and electronics)"
+    },
+    {
+      "id": "6003901787666",
+      "name": "Digital television (telecommunications)"
+    },
+    {
+      "id": "6003392776977",
+      "name": "Digital data"
+    },
+    {
+      "id": "6003127206524",
+      "name": "Digital marketing (marketing)"
+    },
+    {
+      "id": "6003109198633",
+      "name": "Digital photography (photography)"
+    },
+    {
+      "id": "6004166802008",
+      "name": "Origin (digital distribution software)"
+    },
+    {
+      "id": "6003697878983",
+      "name": "Digital audio"
+    },
+    {
+      "id": "6003632173583",
+      "name": "Digital electronics"
+    },
+    {
+      "id": "6003253072911",
+      "name": "digital camera (cameras and camera equipment)"
+    },
+    {
+      "id": "6002960081520",
+      "name": "Secure Digital"
+    },
+    {
+      "id": "6003539990673",
+      "name": "Digital Trends (news service)"
+    },
+    {
+      "id": "6003329789248",
+      "name": "Digital art"
+    },
+    {
+      "id": "6003155383905",
+      "name": "Digital single-lens reflex camera"
+    },
+    {
+      "id": "6003106551978",
+      "name": "Digital illustration"
+    },
+    {
+      "id": "6003121453734",
+      "name": "Western Digital"
+    },
+    {
+      "id": "6003280248159",
+      "name": "Digital wallet (software)"
+    },
+    {
+      "id": "6003384912565",
+      "name": "Digital cinematography"
+    },
+    {
+      "id": "6003216715333",
+      "name": "Digital printing"
+    },
+    {
+      "id": "6008743605783",
+      "name": "Digital currency (currency)"
+    },
+    {
+      "id": "6003270739193",
+      "name": "Dolby Digital"
+    },
+    {
+      "id": "6003702668291",
+      "name": "Digital audio workstation"
+    },
+    {
+      "id": "6003347989581",
+      "name": "Digital video recorder"
+    },
+    {
+      "id": "6003490322795",
+      "name": "Digital transformation"
+    },
+    {
+      "id": "6003169205235",
+      "name": "Digital signal processing"
+    },
+    {
+      "id": "6002992866994",
+      "name": "Personal digital assistant"
+    },
+    {
+      "id": "6003181259014",
+      "name": "Bwin.Party Digital Entertainment"
+    },
+    {
+      "id": "6003420356657",
+      "name": "Olhar Digital"
+    },
+    {
+      "id": "6003650512507",
+      "name": "Red Digital Cinema Camera Company"
+    },
+    {
+      "id": "6003571399918",
+      "name": "Digital Spy"
+    },
+    {
+      "id": "6003997063907",
+      "name": "Asymmetric digital subscriber line"
+    },
+    {
+      "id": "6003584590107",
+      "name": "Digital Revolution"
+    },
+    {
+      "id": "6003115704542",
+      "name": "Digital media player"
+    },
+    {
+      "id": "6004614917685",
+      "name": "Reliance Digital"
+    },
+    {
+      "id": "6003389036196",
+      "name": "Digital library"
+    },
+    {
+      "id": "6003283077327",
+      "name": "Digital piano"
+    },
+    {
+      "id": "6003649783316",
+      "name": "Canal Digital"
+    },
+    {
+      "id": "6003497309427",
+      "name": "Novation Digital Music Systems"
+    },
+    {
+      "id": "6003077559939",
+      "name": "Direct Stream Digital"
+    },
+    {
+      "id": "6003074925093",
+      "name": "Digital forensics"
+    },
+    {
+      "id": "102318410118560",
+      "name": "Digital Camera World"
+    },
+    {
+      "id": "6015273993236",
+      "name": "DigitalOcean"
+    },
+    {
+      "id": "6003716669862",
+      "name": "Consumer electronics (computers and electronics)"
+    },
+    {
+      "id": "6003070122382",
+      "name": "Toys (toys)"
+    },
+    {
+      "id": "6003074487739",
+      "name": "E-books (publications)"
+    },
+    {
+      "id": "6003484343998",
+      "name": "Music download"
+    },
+    {
+      "id": "6003380576181",
+      "name": "Role-playing games (video games)"
+    },
+    {
+      "id": "6003216268430",
+      "name": "Audio mixing (recorded music)"
+    },
+    {
+      "id": "6003261031309",
+      "name": "Cloud computing (computing)"
+    },
+    {
+      "id": "6008137428235",
+      "name": "Telecommunications equipment"
+    },
+    {
+      "id": "6003150986465",
+      "name": "Disc jockeys"
+    },
+    {
+      "id": "6003402305839",
+      "name": "Business (business and finance)"
+    },
+    {
+      "id": "6003248297213",
+      "name": "Product (business)"
+    },
+    {
+      "id": "6004037932409",
+      "name": "Management (business and finance)"
+    },
+    {
+      "id": "6002884511422",
+      "name": "Small business (business and finance)"
+    },
+    {
+      "id": "6003165841322",
+      "name": "Distribution (business)"
+    },
+    {
+      "id": "6002932439173",
+      "name": "Subscription business model"
+    },
+    {
+      "id": "6003605501620",
+      "name": "Home business (business and finance)"
+    },
+    {
+      "id": "6003352779232",
+      "name": "Business class (air travel)"
+    },
+    {
+      "id": "6004040547748",
+      "name": "Business-to-business (business and finance)"
+    },
+    {
+      "id": "6002964301046",
+      "name": "Business school (higher education)"
+    },
+    {
+      "id": "6004233956587",
+      "name": "Business administration (business and finance)"
+    },
+    {
+      "id": "6003230008188",
+      "name": "Master of Business Administration (higher education)"
+    },
+    {
+      "id": "6003526529798",
+      "name": "Business process"
+    },
+    {
+      "id": "6003483917289",
+      "name": "Strategic management (business and finance)"
+    },
+    {
+      "id": "6003241592011",
+      "name": "business model (business and financial industries)"
+    },
+    {
+      "id": "6003258526157",
+      "name": "Small Business Administration (government agency)"
+    },
+    {
+      "id": "6003257861969",
+      "name": "Business travel (travel and tourism business)"
+    },
+    {
+      "id": "6003146343826",
+      "name": "Facebook for Business"
+    },
+    {
+      "id": "6003059037332",
+      "name": "business marketing (marketing)"
+    },
+    {
+      "id": "6003432837135",
+      "name": "Harvard Business School"
+    },
+    {
+      "id": "6003350427193",
+      "name": "Business process outsourcing"
+    },
+    {
+      "id": "6003358608187",
+      "name": "International business"
+    },
+    {
+      "id": "6003132511700",
+      "name": "business plan (business activities)"
+    },
+    {
+      "id": "6003095797816",
+      "name": "business opportunity (business and financial industries)"
+    },
+    {
+      "id": "6003057317756",
+      "name": "business education (business education)"
+    },
+    {
+      "id": "6003115843142",
+      "name": "Business English"
+    },
+    {
+      "id": "6003210533724",
+      "name": "Estée Lauder (businesswoman)"
+    },
+    {
+      "id": "6003352289232",
+      "name": "business intelligence (business and financial industries)"
+    },
+    {
+      "id": "6003651338546",
+      "name": "Business jet"
+    },
+    {
+      "id": "6003448747386",
+      "name": "Business incubator"
+    },
+    {
+      "id": "6003451745375",
+      "name": "Dashboard (business)"
+    },
+    {
+      "id": "6003280183843",
+      "name": "business development (business activities)"
+    },
+    {
+      "id": "6003135342008",
+      "name": "business analytics (business and financial industries)"
+    },
+    {
+      "id": "6003318751818",
+      "name": "angel investor (business finance)"
+    },
+    {
+      "id": "6003142839061",
+      "name": "Better Business Bureau"
+    },
+    {
+      "id": "6003114062900",
+      "name": "Business simulation game"
+    },
+    {
+      "id": "6003049897016",
+      "name": "London Business School"
+    },
+    {
+      "id": "6003120739217",
+      "name": "Business networking"
+    },
+    {
+      "id": "6003222010076",
+      "name": "Business analysis"
+    },
+    {
+      "id": "6003721252047",
+      "name": "Just in time (business)"
+    },
+    {
+      "id": "6003497192827",
+      "name": "Indian School of Business"
+    },
+    {
+      "id": "6003388372512",
+      "name": "Business software"
+    },
+    {
+      "id": "6003339496056",
+      "name": "Saïd Business School"
+    },
+    {
+      "id": "6003500208027",
+      "name": "Business park"
+    },
+    {
+      "id": "6003512621842",
+      "name": "Institute of Business Administration, Karachi"
+    },
+    {
+      "id": "6003229980298",
+      "name": "Stanford Graduate School of Business"
+    },
+    {
+      "id": "6003431353469",
+      "name": "Institute of Business Management"
+    },
+    {
+      "id": "6003023062956",
+      "name": "Columbia Business School"
+    },
+    {
+      "id": "6003425139191",
+      "name": "The Business of Fashion"
+    },
+    {
+      "id": "6003045629844",
+      "name": "INCAE Business School"
+    },
+    {
+      "id": "6003147505126",
+      "name": "Leadership (social concept)"
+    },
+    {
+      "id": "6003125254528",
+      "name": "lead generation (marketing)"
+    },
+    {
+      "id": "6002969118568",
+      "name": "Leadership development"
+    },
+    {
+      "id": "6003208414150",
+      "name": "Leader Price"
+    },
+    {
+      "id": "6007462162962",
+      "name": "Lahore Leads University"
+    },
+    {
+      "id": "6003213630333",
+      "name": "Educational leadership"
+    },
+    {
+      "id": "6003349822205",
+      "name": "Animals as Leaders"
+    },
+    {
+      "id": "6003128616592",
+      "name": "Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series"
+    },
+    {
+      "id": "6002982288523",
+      "name": "Servant leadership"
+    },
+    {
+      "id": "6003283789054",
+      "name": "Transformational leadership"
+    },
+    {
+      "id": "6003644697516",
+      "name": "Travel Leaders"
+    },
+    {
+      "id": "6003432946975",
+      "name": "Leadership studies"
+    },
+    {
+      "id": "6003431603057",
+      "name": "Leading edge slot"
+    },
+    {
+      "id": "6003632790383",
+      "name": "African Leadership Academy"
+    },
+    {
+      "id": "6003352034930",
+      "name": "The Cheer Leader Magazine"
+    },
+    {
+      "id": "6003737009753",
+      "name": "The Leading Hotels of the World, Ltd."
+    },
+    {
+      "id": "6003193577966",
+      "name": "My Lead System PRO"
+    },
+    {
+      "id": "6003499006965",
+      "name": "Market Leader"
+    },
+    {
+      "id": "6003413570889",
+      "name": "Center for Creative Leadership"
+    },
+    {
+      "id": "6004154799989",
+      "name": "David Leadbetter (golf instructor)"
+    }
+  ],
+  "location": {
+    "custom_locations": [
+      {
+        "address_string": "Bhopal, Madhya Pradesh, India",
+        "latitude": 23.2584857,
+        "longitude": 77.401989,
+        "radius": 27.1,
+        "distance_unit": "kilometer"
+      },
+      {
+        "address_string": "Indore, Madhya Pradesh, India",
+        "latitude": 22.7203616,
+        "longitude": 75.8681996,
+        "radius": 25.7,
+        "distance_unit": "kilometer"
+      },
+      {
+        "address_string": "Mumbai, Maharashtra, India",
+        "latitude": 19.054999,
+        "longitude": 72.8692035,
+        "radius": 24.8,
+        "distance_unit": "kilometer"
+      },
+      {
+        "address_string": "Nagpur, Maharashtra, India",
+        "latitude": 21.1498134,
+        "longitude": 79.0820556,
+        "radius": 22.9,
+        "distance_unit": "kilometer"
+      }
+    ]
+  },
+  "audienceGender": [
+    "1",
+    "2"
+  ],
+  "ageRangeFrom": 22,
+  "ageRangeTo": 65,
+  "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "facebookBudget": 810,
+  "instaBudget": 810,
+  "googleBudget": 0,
+  "paymentStatus": "APPROVED",
+  "startDate": "Fri, 01 Aug 2025 13:08:00 GMT",
+  "endDate": "Tue, 05 Aug 2025 13:08:00 GMT",
+  "dayStartTime": "19:38",
+  "dayEndTime": "18:38",
+  "status": "ACTIVE",
+  "isFacebookAdEnabled": true,
+  "isInstaAdEnabled": true,
+  "isGoogleAdEnabled": false,
+  "addTypeId": {
+    "$oid": "676bd7b708acbc4f1ca6a8b5"
+  },
+  "startNotificationSent": false,
+  "headline": "Amplifying voices transforms potential business into palpable success.",
+  "primaryText": "The image illustrates the merging of digital marketing and personal engagement, showing how technology amplifies business reach. \n\n#DigitalMarketing #BusinessGrowth #LeadGeneration #TechAdvance #EngagementStrategy #OnlineAdvertising",
+  "adtype": "OTHER",
+  "createdAt": {
+    "$date": "2025-05-21T13:09:27.979Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-23T13:08:03.417Z"
+  },
+  "__v": 0,
+  "fromName": "",
+  "pageName":"Aanshika a2z interiors services",
+  "creativeId": "1371697330549971",
+  "externalCampiagnId": {
+    "$oid": "682dd0910e32877dcb1e777a"
+  },
+  "transactionId": "682dd0880e32877dcb1e7443",
+  "facebookAdSetId": "120223517095600037",
+  "instaAdSetId": "120223517095600037"
+}
